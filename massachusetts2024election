@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Generic Election Results Template</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+
+    <header class="article-header">The Timely Tribune</header>
+
+    <main class="article-container">
+
+        <h1>2024 Presidential Election Results by Massachusetts Town</h1>
+
+        <p>Kamala Harris won Massachusetts in the 2024 presidential election.</p>
+
+        <p>Harris carried 268 of the state’s 351 cities and towns while Donald Trump won 83. Harris’s support is strongest in Greater Boston, the Berkshires, the Pioneer Valley, and Cape Cod and the islands. Trump’s wins are mostly in central Massachusetts along the southeastern coast.</p>
+
+        <!-- <iframe title="2024 Presidential Election Results by Massachusetts Town" aria-label="Choropleth map" id="datawrapper-chart-PbHar" src="https://datawrapper.dwcdn.net/PbHar/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="543" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>;
+             main.css sizes it to match the article width. -->
+        
+        <iframe title="2024 U.S. Senate Race, New York" aria-label="Choropleth map" id="datawrapper-chart-zL67h" src="https://datawrapper.dwcdn.net/zL67h/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="554" data-external="1"></iframe><script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
+        <!-- End map section -->
+
+        <p>Hover over any town to see its winner, vote totals, and margin.</p>
+
+
+    </main>
+
+</body>
+
+</html>
