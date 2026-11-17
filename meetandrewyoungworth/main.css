@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: New Amsterdam, sans-serif;
   max-width: 70rem;
   margin-left: 10px;
   margin-right: 10px;
@@ -7,7 +7,7 @@ body {
 }
 
 .newheader {
-  background-color: darkblue;
+  background-color: scarlet;
   color: white;
   font-size: 18px;
   padding-top: 10px;
